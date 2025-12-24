@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花言葉がうまれる会",
+  "base_artist": "色々な十字架",
+  "createdAt": "2025-12-24T06:54:08.783701Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花言葉がうまれる会",
+      "artist": "色々な十字架",
+      "has_synced": false,
+      "path": "select/pl_01_花言葉がうまれる会_色々な十字架.txt"
+    }
+  ]
+}
